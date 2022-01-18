@@ -1,5 +1,5 @@
 {
-  "name": "react-complete-guide",
+  "name": "section-6-build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "styled-components": "5.3.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -34,5 +35,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
